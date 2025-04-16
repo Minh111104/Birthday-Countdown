@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #fff89a, #ffdd59);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .emoji {
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .countdown {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .time-box {
+    background: #f9f9f9;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 80px;
+  }
+  
+  .time {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ff6b6b;
+  }
+  
+  .label {
+    font-size: 0.8rem;
+    color: #666;
+    text-transform: uppercase;
+    margin-top: 0.5rem;
+    display: block;
+  }
