@@ -1,4 +1,4 @@
-# Birthday Countdown 🎉
+# Birthday Countdown 🎉🎂 
 
 A simple web application that displays a countdown timer to your next birthday. Once the countdown reaches zero, it displays a celebratory message.
 
